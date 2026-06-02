@@ -1,0 +1,15 @@
+{
+	"servers": {
+		"get_docs": {
+			"type": "stdio",
+			"command": "uv",
+			"args": [
+				"run",
+				"--directory",
+				"/Users/kavisanthoshkumar/Documents/mcp_servers",
+				"mcp_servers.py"
+			]
+		}
+	},
+	"inputs": []
+}
