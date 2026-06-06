@@ -22,4 +22,4 @@ def get_documentation_from_database()-> dict:
 
 
 if __name__ == "__main__":
-    mcp.run("stdio")
+    mcp.run("streamable-http")

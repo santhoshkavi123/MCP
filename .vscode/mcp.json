@@ -9,6 +9,11 @@
 				"/Users/kavisanthoshkumar/Documents/mcp_servers",
 				"mcp_servers.py"
 			]
+		},
+		"mcp_server": {
+			"type": "stdio",
+			"command": "/Users/kavisanthoshkumar/Documents/mcp_servers",
+			"args": []
 		}
 	},
 	"inputs": []
